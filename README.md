@@ -24,10 +24,10 @@
   
   ### ☄My Stats
   
-  ![Ahobilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SreeAhobilan&show_icons=true&theme=radical)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SreeAhobilan&theme=radical)
+  ![Ahobilan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SreeAhobilan&show_icons=true&theme=synthwave)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SreeAhobilan&theme=synthwave)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeAhobilan&layout=compact&theme=radical&langs_count=6)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SreeAhobilan&layout=compact&theme=synthwave&langs_count=6)
   
   <h2 align="left">☄Connect with me</h2>
   <p align="left">
